@@ -1,0 +1,35 @@
+/* .home {
+    height: 80vh;
+    display: flex;
+    
+    
+}
+
+img {
+    border-radius: 50%;
+    display: inline;
+    margin: 2vw;
+    
+
+    
+}
+h1 {
+    display: inline;
+    align-self: center;
+    
+} */
+.home {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  img {
+    border-radius: 50%;
+    margin: 2vw;
+  }
+  
+  h1 {
+    margin: 0;
+  }

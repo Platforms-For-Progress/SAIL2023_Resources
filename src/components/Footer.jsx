@@ -5,9 +5,9 @@ function Footer() {
     return (
         <footer>
             <div className="footer-social">
-                <a href="/"><AiFillInstagram/></a>
-                <a href="/about"><AiFillFacebook/></a>
-                <a href="linkedin.com"><AiFillLinkedin/></a>
+                <a href="https://instagram.com"><AiFillInstagram/></a>
+                <a href="https://facebook.com"><AiFillFacebook/></a>
+                <a href="https://linkedin.com"><AiFillLinkedin/></a>
             </div>
             <p>&copy; 2023 My Personal Website </p>
         </footer>

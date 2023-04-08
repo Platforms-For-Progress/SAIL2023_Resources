@@ -4,7 +4,7 @@
 In this class, we will be teaching you the basics of React through the creation of a personal website. Optionally, you can also create a Firebase account and host your website on the internet.
 
 ## Prerequisites
-- VSCode
+- [VSCode](https://code.visualstudio.com/download)
 
 ## Getting Started
 ### Download npm
